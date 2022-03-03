@@ -1,4 +1,4 @@
-# CShellBash
+# C Command Shell
 
 ### Description
 - C program that implements most of the functionality of a linux bash shell
