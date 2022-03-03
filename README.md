@@ -1,7 +1,7 @@
 # C Command Shell
 
 ### Description
-- C program that implements most of the functionality of a linux bash shell
+- C program that implements most of the functionality of a linux command shell
 - Most of the program is input processing, using getline(), strtok()
   - Then getting the program to understand the processed strings, mostly if-else statements with strcmp
 - Utilises mainly fork() and exec() functions to execute command input from user
